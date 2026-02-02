@@ -24,7 +24,7 @@ Banyak website murah tapi lemot. Banyak website bagus tapi mahal. **Vocatech ada
 ### 🛠️ Layanan Kami
 Kami tidak hanya membuat website, kami membangun aset digital yang bekerja untuk Anda 24/7.
 
-**📂 Company Profile** | **🏷️ Landing Page Produk** | **🖼️ Portfolio Digital** | **🏬 Katalog Online**
+**📂 Company Profile** | **🏷️ Web UMKM** | **🖼️ Portfolio Digital** | **🏬 Katalog Online**
 
 > **Note:** Setiap paket sudah termasuk optimasi kecepatan dan keamanan tingkat tinggi. Anda terima beres, kami yang urus teknisnya.
 
